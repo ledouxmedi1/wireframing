@@ -40,3 +40,43 @@ Wireframes consist of several core elements that shape the user experience and g
 - **Example**: A wireframe for a login page might include placeholders for a username field, password field, and a "Submit" button. This ensures developers understand the required functionality, such as form validation, before coding begins.
 
 By incorporating these elements, wireframes provide a clear, structured foundation for designing user-friendly interfaces, ensuring alignment between design intent and development outcomes.
+
+## Types of Wireframes
+
+Wireframes are categorized into two main types: low-fidelity and high-fidelity. Each serves distinct purposes in the design process, differing in detail, complexity, and application.
+
+### Low-Fidelity Wireframes
+- **Description**: Low-fidelity wireframes are basic, rough sketches of an interface, often created using simple shapes, placeholders, or hand-drawn elements. They focus on structure and layout without detailed visuals or interactivity.
+- **Characteristics**:
+  - Minimalistic design with basic shapes (e.g., rectangles for images, lines for text).
+  - Lacks colors, typography, or detailed graphics.
+  - Quick to create, often using tools like pen and paper, Balsamiq, or basic Figma templates.
+- **When Used**: 
+  - Early in the design process during ideation or brainstorming.
+  - To quickly communicate initial concepts to stakeholders or team members.
+  - For rapid iteration and feedback before investing in detailed design.
+- **Example**: A low-fidelity wireframe for a mobile app might use rectangles to represent buttons and text placeholders like "Lorem Ipsum" to outline content areas, focusing solely on layout and navigation flow.
+
+### High-Fidelity Wireframes
+- **Description**: High-fidelity wireframes are more detailed and polished, closely resembling the final product. They include specific content, detailed layouts, and sometimes basic interactivity or styling.
+- **Characteristics**:
+  - Includes specific text, images, and UI elements (e.g., actual button labels or icons).
+  - May incorporate basic styling like fonts, colors, or spacing.
+  - Often created using tools like Figma, Sketch, or Adobe XD, with interactive prototypes.
+- **When Used**:
+  - Later in the design process, after initial concepts are approved.
+  - To test usability with stakeholders or users through clickable prototypes.
+  - To provide developers with a clear, detailed blueprint for implementation.
+- **Example**: A high-fidelity wireframe for a website might include actual menu labels (e.g., "Sign Up" instead of a generic button), real content, and clickable links to simulate navigation, offering a near-final representation of the interface.
+
+### Key Differences
+- **Detail Level**: Low-fidelity wireframes are abstract and simple; high-fidelity wireframes are detailed and specific.
+- **Time and Effort**: Low-fidelity wireframes are quick to produce; high-fidelity wireframes require more time and refinement.
+- **Purpose**: Low-fidelity wireframes focus on ideation and structure; high-fidelity wireframes focus on usability testing and final design validation.
+
+### Which Type of Wireframe Is Used Here?
+Since the project does not specify a particular wireframe example, this section assumes you are referring to the wireframing process described in the "Figmify: From Wireframe to Prototype" project. Given the project's emphasis on using Figma to create prototypes and explore both low- and high-fidelity wireframes, the wireframes developed here likely include **both types**:
+- **Low-Fidelity Wireframes**: Used in the initial stages to sketch out basic layouts and navigation flows for quick feedback.
+- **High-Fidelity Wireframes**: Created later in Figma to build detailed, interactive prototypes that closely mimic the final product for usability testing and stakeholder approval.
+
+If you have a specific wireframe example or image in mind, please provide it, and I can analyze whether it is low- or high-fidelity based on its characteristics.
